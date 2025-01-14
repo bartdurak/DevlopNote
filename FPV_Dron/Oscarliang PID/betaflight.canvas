@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3dee9ee303bd1f2d","type":"file","file":"FPV_Dron/Oscarliang PID/betaflight-configurator-tpa-mode-rate-breakpoint-10.10.0-1170x923.jpg.webp","x":-220,"y":-40,"width":400,"height":316},
+		{"id":"04cac43a294b050a","type":"file","file":"betaflight-4.3-stick-response-slider-move-up-1170x442.jpg.webp","x":-300,"y":-460,"width":400,"height":151},
+		{"id":"0aecbfea9a6aefcd","type":"file","file":"FPV_Dron/Oscarliang PID/betaflight-4.3-4s-5inch-freestyle-fpv-drone-tune.webp","x":40,"y":-281,"width":400,"height":241}
+	],
+	"edges":[
+		{"id":"12a1cf86cfb6f038","fromNode":"04cac43a294b050a","fromSide":"bottom","toNode":"3dee9ee303bd1f2d","toSide":"top"},
+		{"id":"da7b1fbd7a447ab9","fromNode":"0aecbfea9a6aefcd","fromSide":"left","toNode":"04cac43a294b050a","toSide":"bottom"}
+	]
+}

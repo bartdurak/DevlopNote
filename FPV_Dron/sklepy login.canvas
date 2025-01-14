@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"cc0fca89ba5d3257","x":-377,"y":-442,"width":400,"height":400,"type":"link","url":"https://rcmaniak.pl/pl/reg"},
+		{"id":"0f66eced3a50ff86","x":-377,"y":20,"width":305,"height":80,"type":"text","text":"https://rcmaniak.pl/pl/login"},
+		{"id":"e692573c09039219","x":60,"y":-360,"width":240,"height":400,"type":"link","url":"https://inpost.pl/paczkomat-rzeszow-rze69m-stojalowskiego-paczkomaty-podkarpackie"}
+	],
+	"edges":[]
+}

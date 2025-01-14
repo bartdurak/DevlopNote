@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4c7dd0e5f82c8a86","x":-200,"y":-200,"width":400,"height":400,"type":"link","url":"https://opensource.com/article/21/4/share-files-linux-windows"},
+		{"id":"e6dbeb6dbc5446e5","x":-134,"y":-36,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
